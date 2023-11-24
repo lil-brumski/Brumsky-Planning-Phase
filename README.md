@@ -32,7 +32,7 @@ label,input{
     <input type="submit" value="login">
   </form>
 <nav>
-  <a href ="SignUp.html" >Don't have an account? Sign Up</a>
+  <a href ="https://github.com/lil-brumski/Brumsky-Planning-Phase/blob/main/brumsky-index.html" >Don't have an account? Sign Up</a>
 </nav>
 <footer>
 <p>Brumax Studio 2023</p>
